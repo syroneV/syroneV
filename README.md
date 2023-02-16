@@ -1,4 +1,4 @@
-<img src="standard.gif">
+<img position=center src="standard.gif">
 # 💫 About Me:
 🔭 I’m currently working on The Fine Line RP<br><br>🌱 I’m currently learning Js, Lua, c#<br><br>👯 I’m looking to collaborate on Syrone Dev Discord<br><br>🤝 I’m looking for help with SyroneV shop Discord<br><br>👨‍💻 All of my projects are available at https://discord.gg/eWJbSncnur<br><br>📝 I regularly write articles on https://discord.gg/eWJbSncnur<br><br>💬 Ask me about Lua<br><br>📫 How to reach me vsyrone@gmail.com<br><br>📄 Know about my experiences https://discord.gg/eWJbSncnur<br><br>⚡ Fun fact I start on FiveM
 
