@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-[![syronev github stats](https://github-readme-stats.vercel.app/api?username=syronev)](https://github.com/anuraghazra/github-readme-stats)
+![syronev's Stats](https://github-readme-stats.vercel.app/api?username=syronev&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syronev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![syronev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syronev&theme=dark&hide_border=true)
+<br>
+![syronev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syronev&theme=dark&show_icons=true&hide_border=true&layout=compact)
